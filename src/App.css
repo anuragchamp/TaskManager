@@ -1,0 +1,20 @@
+:root {
+  --primaryBackgroundColor: #5800FF;
+  --secondaryBackgroundColor: #0096FF;
+  --primaryFontColor1: #00D7FF;
+  --primaryFontColor2: #72FFFF;
+  --blackColor: #000;
+  --whiteColor: #fff;
+  --myFonts : cursive;
+  font-size: 32px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: var(--secondaryBackgroundColor);
+}
